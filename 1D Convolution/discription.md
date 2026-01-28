@@ -17,8 +17,8 @@ where $i$ ranges from 0 to $input\_size - kernel\_size$.
 
 ## Implementation Requirements
 * Use only native features (external libraries are not permitted)
-* The solve function signature must remain unchanged
-* The final result must be stored in the array output
+* The `solve` function signature must remain unchanged
+* The final result must be stored in the array `output`
 
 ## Example 1:
 ```
