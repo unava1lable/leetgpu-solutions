@@ -4,8 +4,8 @@ Write a GPU program that counts the number of elements with the integer value k 
 
 ## Implementation Requirements
 * Use only native features (external libraries are not permitted)
-* The solve function signature must remain unchanged
-* The final result must be stored in the output variable
+* The `solve` function signature must remain unchanged
+* The final result must be stored in the `output` variable
 
 ## Example 1:
 ```
