@@ -6,14 +6,14 @@ SiLU is defined as:
 $$
 \begin{align*}
 \sigma(x) &= \frac{1}{1+e^{-x}} \\
-SiLU(x) &= x \cdot \sigma(x)
+\mathrm{SiLU}(x) &= x \cdot \sigma(x)
 \end{align*}
 $$
 
 ## Implementation Requirements
 * Use only native features (external libraries are not permitted)
 * The `solve` function signature must remain unchanged
-* The final result must be stored in the output `tensor`
+* The final result must be stored in the `output` tensor
 
 ## Example 1:
 ```
